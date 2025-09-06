@@ -66,5 +66,5 @@ This project was developed as the final year project for the **Bachelor of Compu
 
 ## 📬 Contact
 
-Author: Pradeep C  
-Email: youremail@example.com
+Author: KHUSHI DHONGADI 
+Email: khushidhongadi25@gmail.com
